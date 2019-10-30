@@ -18,6 +18,11 @@ Hacktoberfest Classroom Project 2019
 [Ryan Karanja](https://github.com/Ryan-Karanja)
 ---
 
+### Sandra
+[Sandra M](https://github.com/sandra-web)
+> dancer
+---
+
 ### Matthew
 [Believedshelf2](https://github.com/believedshelf2/)
 ---
